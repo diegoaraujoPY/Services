@@ -1,0 +1,41 @@
+.cad {
+	padding: 20px;
+	margin: 20px;
+	background-color: #ffffff;
+	-webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+	box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.wrapper {
+  width: 100%;
+}
+
+form {
+	width: 500px;
+	margin: auto;
+}
+
+input, textarea{
+	font-family: sans-Serif;
+	font-weight: normal;
+	font-size: 13pt;
+	background-color: rgba(255,255,255, .8);
+}
+
+input:hover, textarea:hover {
+	background-color: #dddddd;
+}
+
+fieldset legend.ini{
+	color: #16578b;
+	font-weight: bold;
+	font-size: 20pt;
+	font-family: Verdana;
+}
+
+.right {
+	margin-top: 40px;
+	float: right;
+}

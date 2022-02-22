@@ -1,0 +1,24 @@
+.funciona {
+	padding: 20px;
+	margin: 50px;
+	background-color: #ffffff;
+	-webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+	box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.wrapper {
+  width: 100%;
+  min-height: 220%;
+}
+
+div p.topicos {
+	font-size: 20px;
+	margin: 20px;
+}
+
+div p.anuncie {
+	font-size: 20px;
+	margin-left: 30px;
+}

@@ -1,0 +1,20 @@
+.row {
+	margin-bottom: 20px;
+}
+
+h4.fontserv {
+	font-family: Verdana;
+	padding: 14px;
+}
+
+div.principal {
+	margin: 10px;
+	background-color: #ffffff;
+	padding: 10px;
+}
+
+div.profissionais {
+	margin: 10px;
+	background-color: rgba(22, 87, 139, 0.2);
+	padding: 10px;
+}

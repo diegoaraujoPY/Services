@@ -1,0 +1,39 @@
+figure figcaption.legendacadastrado{
+	text-align: center;
+	color: #000000;
+	font-weight: bold;
+	font-size: 13pt;
+	font-family: Verdana;
+}
+
+.cadastrado {
+	padding: 40px;
+	margin: 20px;
+	align-items: center;
+	background-color: #ffffff;
+	-webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+	box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.cadheight {
+  display: flex;
+  align-items: center;
+  flex-direction: column; 
+  justify-content: center;
+  width: 100%;
+  min-height: 100%;
+}
+
+.idusuario {
+	 border: 2px solid #000000;
+}
+
+legend.cadastrosucesso{
+	font-size: 30px;
+	text-align: center;
+	color: #16578b;
+	font-weight: bold;
+	font-family: Verdana;
+}
